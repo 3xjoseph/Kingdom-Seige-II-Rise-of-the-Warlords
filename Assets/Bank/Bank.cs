@@ -28,7 +28,7 @@ public class Bank : MonoBehaviour
 
     public void Withdraw(int amount)
     {
-        if (currentBalance < 0 )
+        if (currentBalance <= 0 )
         {
             ReloadScene();
         }

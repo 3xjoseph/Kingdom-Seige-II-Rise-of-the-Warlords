@@ -72,6 +72,10 @@ PrefabInstance:
       propertyPath: m_fontColor.r
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 3022425533753274203, guid: 86628f9f5dda35a4e95fd60547b72191, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4286611584
+      objectReference: {fileID: 0}
     - target: {fileID: 6672296682244036577, guid: 86628f9f5dda35a4e95fd60547b72191, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 

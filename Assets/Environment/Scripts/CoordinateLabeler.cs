@@ -32,6 +32,7 @@ public class CoordinateLabeler : MonoBehaviour
        {
             DisplayCoordinates();
             UpdateObjectName();
+            label.enabled = true;
        } 
 
        SetLabelColor();
@@ -57,11 +58,11 @@ public class CoordinateLabeler : MonoBehaviour
         {
             label.color = blockColor;
         }
-        else if (!node.isPath)
+        else if (node.isPath)
         {
             label.color = exploredColor;
         }
-        else if (!node.isExplored)
+        else if (node.isExplored)
         {
             label.color = exploredColor;
         }
@@ -75,7 +76,7 @@ public class CoordinateLabeler : MonoBehaviour
     {
         coordinates.x = Mathf.RoundToInt(transform.parent.position.x / UnityEditor.EditorSnapSettings.move.x);
         coordinates.y = Mathf.RoundToInt(transform.parent.position.z / UnityEditor.EditorSnapSettings.move.z);
-        label.text = $"({coordinates.x}, {coordinates.y})";
+        label.text = coordinates.x + "," + coordinates.y;
     }
 
     void UpdateObjectName()
