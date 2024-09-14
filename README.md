@@ -1,4 +1,4 @@
-# Kingdom-Seige-II-Rise-of-the-Warlords
+# Kingdom Seige II Rise of the Warlords
  
 Story:
 
