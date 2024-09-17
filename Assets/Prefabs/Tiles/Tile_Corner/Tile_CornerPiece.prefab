@@ -12,6 +12,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile_CornerPiece
       objectReference: {fileID: 0}
+    - target: {fileID: 1638691078955761927, guid: a00b2818271693249b50235f69ed0d8f, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
     - target: {fileID: 3408261401621293964, guid: a00b2818271693249b50235f69ed0d8f, type: 3}
       propertyPath: m_Mesh
       value: 

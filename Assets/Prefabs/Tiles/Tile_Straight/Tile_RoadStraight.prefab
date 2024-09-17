@@ -8,9 +8,29 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1607369857527450396, guid: a00b2818271693249b50235f69ed0d8f, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1607369857527450396, guid: a00b2818271693249b50235f69ed0d8f, type: 3}
+      propertyPath: m_fontColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1607369857527450396, guid: a00b2818271693249b50235f69ed0d8f, type: 3}
+      propertyPath: m_fontColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1607369857527450396, guid: a00b2818271693249b50235f69ed0d8f, type: 3}
+      propertyPath: m_fontColor.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1638691078955761927, guid: a00b2818271693249b50235f69ed0d8f, type: 3}
       propertyPath: m_Name
       value: Tile_RoadStraight
+      objectReference: {fileID: 0}
+    - target: {fileID: 1638691078955761927, guid: a00b2818271693249b50235f69ed0d8f, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 3408261401621293964, guid: a00b2818271693249b50235f69ed0d8f, type: 3}
       propertyPath: m_Mesh
