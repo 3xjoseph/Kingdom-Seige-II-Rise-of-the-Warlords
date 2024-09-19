@@ -60,8 +60,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d29422b27a3581e4ea4df69e5f8852f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentSearchNode:
-    coordinates: {x: 0, y: 0}
-    isWalkable: 0
-    isExplored: 0
-    isPath: 0
+  startCoordinates: {x: 3, y: 6}
+  destinationCoordinates: {x: 11, y: 1}
