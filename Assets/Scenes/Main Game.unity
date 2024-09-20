@@ -9674,7 +9674,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6663262605776494747, guid: a00b2818271693249b50235f69ed0d8f, type: 3}
       propertyPath: isPlaceable
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12361,11 +12361,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7825487530120255987, guid: a8f7e491cd944ce498ece8575afba469, type: 3}
       propertyPath: startCoordinates.x
-      value: 12
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 7825487530120255987, guid: a8f7e491cd944ce498ece8575afba469, type: 3}
       propertyPath: startCoordinates.y
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7825487530120255987, guid: a8f7e491cd944ce498ece8575afba469, type: 3}
       propertyPath: destinationCoordinates.x
