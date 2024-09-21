@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Tower : MonoBehaviour
 {
+    [Header("General Settings")]
     [SerializeField] int cost = 75;
     [SerializeField] float buildDelay = 1f;
 
