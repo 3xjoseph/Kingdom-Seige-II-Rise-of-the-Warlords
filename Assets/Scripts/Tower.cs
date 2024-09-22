@@ -5,7 +5,9 @@ using UnityEngine;
 public class Tower : MonoBehaviour
 {
     [Header("General Settings")]
+    [Tooltip("Set the cost of the tower")]
     [SerializeField] int cost = 75;
+    [Tooltip("The amount of time to build the tower")]
     [SerializeField] float buildDelay = 1f;
 
     void Start()
