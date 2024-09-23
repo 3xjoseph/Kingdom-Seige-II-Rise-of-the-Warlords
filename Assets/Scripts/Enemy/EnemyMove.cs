@@ -6,6 +6,8 @@ using System.Linq;
 [RequireComponent(typeof(Enemy))]
 public class EnemyMove : MonoBehaviour
 {
+    [Header("Speed Settings")]
+    [Tooltip("Set the speed of the enemy")]
     [SerializeField] [Range(0f, 5f)] float speed = 1f; 
 
     List<Node> path = new List<Node>();
