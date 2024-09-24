@@ -4,8 +4,10 @@ using UnityEngine;
 
 public class Tile : MonoBehaviour
 {
+    [Tooltip("The game object that you want to instantiate as tower")]
     [SerializeField] Tower towerPrefab;
     
+    [Tooltip("Checks if you can place towers in the tile")]
     [SerializeField] bool isPlaceable;
     public bool IsPlaceable { get { return isPlaceable; } }
 
