@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-
-    [SerializeField] int goldReward = 25; 
+    [Header("Gold Settings")]
+    [Tooltip("The amount of gold rewarded to the player")][SerializeField] int goldReward = 25; 
     [SerializeField] int goldPenalty = 25;
 
     Bank bank;
