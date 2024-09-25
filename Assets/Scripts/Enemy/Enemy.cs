@@ -6,7 +6,7 @@ public class Enemy : MonoBehaviour
 {
     [Header("Gold Settings")]
     [Tooltip("The amount of gold rewarded to the player")][SerializeField] int goldReward = 25; 
-    [SerializeField] int goldPenalty = 25;
+    [Tooltip("The amount of gold rewarded to the player")][SerializeField] int goldPenalty = 25;
 
     Bank bank;
 
