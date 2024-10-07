@@ -5471,6 +5471,42 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5504364700624997605, guid: 6b4618eb9943355419405e30f82fb436, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 661.4247
+      objectReference: {fileID: 0}
+    - target: {fileID: 5504364700624997605, guid: 6b4618eb9943355419405e30f82fb436, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 102.7953
+      objectReference: {fileID: 0}
+    - target: {fileID: 5504364700624997605, guid: 6b4618eb9943355419405e30f82fb436, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 40.20996
+      objectReference: {fileID: 0}
+    - target: {fileID: 5504364700624997605, guid: 6b4618eb9943355419405e30f82fb436, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 97
+      objectReference: {fileID: 0}
+    - target: {fileID: 6978193348393433595, guid: 6b4618eb9943355419405e30f82fb436, type: 3}
+      propertyPath: m_fontSize
+      value: 80
+      objectReference: {fileID: 0}
+    - target: {fileID: 6978193348393433595, guid: 6b4618eb9943355419405e30f82fb436, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 80
+      objectReference: {fileID: 0}
+    - target: {fileID: 7441693886670269280, guid: 6b4618eb9943355419405e30f82fb436, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7441693886670269280, guid: 6b4618eb9943355419405e30f82fb436, type: 3}
+      propertyPath: m_ReferenceResolution.x
+      value: 1920
+      objectReference: {fileID: 0}
+    - target: {fileID: 7441693886670269280, guid: 6b4618eb9943355419405e30f82fb436, type: 3}
+      propertyPath: m_ReferenceResolution.y
+      value: 1080
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
