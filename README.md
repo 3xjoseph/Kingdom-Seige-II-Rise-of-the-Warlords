@@ -16,10 +16,6 @@ New Gameplay Features:
 
 Adaptive Enemy AI: The invading warlords learn from your defensive strategies, adapting their tactics in real-time. If you rely too heavily on certain defenses, the enemy will find ways to counter them. Some enemies can cloak, fly, or disable certain towers, forcing you to rethink your strategies with each new wave.
 
-Evolving Enemy Units: The enemy army is now more varied and intelligent. Elite units with specialized skills (like saboteurs who disable towers or agile assassins who target key hero units) force you to stay on your toes. Each warlord has a unique army with different strengths and weaknesses.
-
-Advanced Traps and Obstacles: Unlock new trap systems like collapsible bridges, rolling boulders, and magical barriers that can be placed around your fortress. Use the environment to your advantage by setting up ambushes or funnelling enemies into deadly chokepoints.
-
 Endgame Challenges and Endless Mode:
 
 After completing the main campaign, Fortress Defenders II offers an endless mode where enemies continuously evolve, becoming smarter and more powerful over time. See how long you can survive against an AI that adapts with every passing wave. Leaderboards and weekly challenges keep the competition fierce as players vie for the top spot.
