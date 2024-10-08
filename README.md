@@ -1,8 +1,8 @@
 # Kingdom Seige II Rise of the Warlords
 
-Link: https://play.unity.com/en/games/9f5a1fd9-84e3-459f-b22d-157f30971536/kingdom-seige-ii
+Link: https://play.unity.com/en/games/60b3842b-a81f-408b-9d43-4100b60550bd/kingdom-seige-ii-rise-of-warlords
 
-Install: https://drive.google.com/file/d/1CGDulC2Ry1qm4du6T4bM1di6mz5ZnhXx/view?usp=sharing
+Install: https://www.mediafire.com/file/2epct638r0hpi28/Kingdom_Seige_II.exe/file
  
 Story:
 
